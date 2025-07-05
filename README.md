@@ -1,4 +1,10 @@
 ## Rock Paper Scissors - Real-Time Webcam Game with Voice Over
+## 🎬 Demo Video
+
+Click below to watch the demo video of this project in action:
+
+[![Watch the Demo](docs/demo_thumb.png)](https://drive.google.com/file/d/1kXBHt9IgHR43Ro8Ia8znH6oqdBPagc3T/view?usp=sharing)
+
 
 A fun Python project: play Rock Paper Scissors against a bot using your webcam — with voice announcements!
 
@@ -23,4 +29,16 @@ Clone this repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/rock-paper-scissors-bot.git
 cd rock-paper-scissors-bot
+
+## Install dependencies
+pip install -r requirements.txt
+
+##Make sure your bot_images/ folder contains:
+![Demo Rock]([docs/demo.png])(https://drive.google.com/file/d/1bp743KdCm1n1mdtsD18q4-W6xdhUt6EU/view?usp=sharing)
+![Demo Papers](docs/demo.png)(https://drive.google.com/file/d/1biB5I-xFXb_-JS295uSv5laCdVAhL3oQ/view?usp=sharing)
+![Demo Scissors](docs/demo.png)(https://drive.google.com/file/d/1pjbCsOtXKNilHtVBlz38N78JnlQE5q0a/view?usp=sharing)
+
+## python Code.py
+
+
 
