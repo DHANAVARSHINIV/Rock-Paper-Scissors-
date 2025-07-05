@@ -34,9 +34,11 @@ cd rock-paper-scissors-bot
 pip install -r requirements.txt
 
 ##Make sure your bot_images/ folder contains:
-![Demo Rock]([docs/demo.png])(https://drive.google.com/file/d/1bp743KdCm1n1mdtsD18q4-W6xdhUt6EU/view?usp=sharing)
-![Demo Papers](docs/demo.png)(https://drive.google.com/file/d/1biB5I-xFXb_-JS295uSv5laCdVAhL3oQ/view?usp=sharing)
-![Demo Scissors](docs/demo.png)(https://drive.google.com/file/d/1pjbCsOtXKNilHtVBlz38N78JnlQE5q0a/view?usp=sharing)
+![Bot Rock](https://drive.google.com/uc?id=1bp743KdCm1n1mdtsD18q4-W6xdhUt6EU)
+
+![Bot Paper](https://drive.google.com/file/d/1biB5I-xFXb_-JS295uSv5laCdVAhL3oQ/view?usp=sharing)
+
+![Bot Scissors](docs/demo.png)(https://drive.google.com/file/d/1pjbCsOtXKNilHtVBlz38N78JnlQE5q0a/view?usp=sharing)
 
 ## python Code.py
 
